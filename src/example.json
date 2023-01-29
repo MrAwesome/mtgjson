@@ -1,0 +1,1012 @@
+{
+    "meta": {
+        "date": "2023-01-26",
+        "version": "5.2.0+20230126"
+    },
+    "data": {
+        "\"Ach! Hans, Run!\"": [
+            {
+                "colorIdentity": [
+                    "G",
+                    "R"
+                ],
+                "colors": [
+                    "G",
+                    "R"
+                ],
+                "convertedManaCost": 6,
+                "firstPrinting": "UNH",
+                "foreignData": [],
+                "identifiers": {
+                    "scryfallOracleId": "a2c5ee76-6084-413c-bb70-45490d818374"
+                },
+                "isFunny": true,
+                "layout": "normal",
+                "legalities": {},
+                "manaCost": "{2}{R}{R}{G}{G}",
+                "manaValue": 6,
+                "name": "\"Ach! Hans, Run!\"",
+                "printings": [
+                    "UNH"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/84dfefe718a51cf8",
+                    "cardKingdomFoil": "https://mtgjson.com/links/d8c9f3fc1e93c89c",
+                    "cardmarket": "https://mtgjson.com/links/b9d69f0d1a9fb80c",
+                    "tcgplayer": "https://mtgjson.com/links/c51d2b13ff76f1f0"
+                },
+                "rulings": [],
+                "subtypes": [],
+                "supertypes": [],
+                "text": "At the beginning of your upkeep, you may say \"Ach! Hans, run! It's the . . .\" and the name of a creature card. If you do, search your library for a card with that name, put it onto the battlefield, then shuffle. That creature gains haste. Exile it at the beginning of the next end step.",
+                "type": "Enchantment",
+                "types": [
+                    "Enchantment"
+                ]
+            }
+        ],
+        "Zur's Weirding": [
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "colors": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "edhrecRank": 8085,
+                "firstPrinting": "ICE",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zurs bizarre Welt",
+                        "text": "Alle Spieler spielen mit offenen Karten.\nFalls ein Spieler eine Karte ziehen würde, zeigt er sie stattdessen offen vor. Dann kann jeder andere Spieler 2 Lebenspunkte bezahlen. Falls ein Spieler dies tut, lege die Karte auf den Friedhof ihres Besitzers. Sonst zieht dieser Spieler die Karte.",
+                        "type": "Verzauberung"
+                    },
+                    {
+                        "language": "Spanish",
+                        "name": "Presagio de Zur",
+                        "text": "Los jugadores juegan mostrando sus manos.\nSi un jugador fuera a robar una carta, en vez de eso, la muestra. Luego cualquier otro jugador puede pagar 2 vidas. Si algún jugador lo hace, pon esa carta en el cementerio de su propietario. De lo contrario, el jugador roba la carta.",
+                        "type": "Encantamiento"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Déterminisme selon Zur",
+                        "text": "Les joueurs jouent avec leurs mains révélées.\nSi un joueur devait piocher une carte, il la révèle à la place. N'importe quel autre joueur peut ensuite payer 2 points de vie. Si c'est le cas, mettez cette carte dans le cimetière de son propriétaire. Sinon, ce joueur pioche la carte.",
+                        "type": "Enchantement"
+                    },
+                    {
+                        "language": "Italian",
+                        "name": "Malia di Zur",
+                        "text": "I giocatori giocano a carte scoperte.\nSe un giocatore sta per pescare una carta, invece la rivela. Poi ogni altro giocatore può pagare 2 punti vita. Se un giocatore paga, metti quella carta nel cimitero del suo proprietario. Altrimenti, quel giocatore pesca la carta.",
+                        "type": "Incantesimo"
+                    },
+                    {
+                        "language": "Japanese",
+                        "name": "ズアーの運命支配",
+                        "text": "プレイヤーは手札を公開したままプレイする。\nいずれかのプレイヤーがカードを１枚引く場合、代わりにそのプレイヤーはそれを公開する。 その後、他のいずれかのプレイヤーは２点のライフを支払ってもよい。 いずれかのプレイヤーがそうした場合、そのカードをオーナーの墓地に置く。 そうでない場合、そのプレイヤーはそのカードを引く。",
+                        "type": "エンチャント"
+                    },
+                    {
+                        "language": "Portuguese (Brazil)",
+                        "name": "Fatalidade de Zur",
+                        "text": "Os jogadores jogam com os cards de suas mãos revelados.\nSe um jogador fosse comprar um card, ele próprio o revela em vez disso. Depois, qualquer outro jogador pode pagar 2 pontos de vida. Se um jogador o fizer, coloque aquele card no cemitério de seu dono. Se não, aquele jogador compra o card.",
+                        "type": "Encantamento"
+                    },
+                    {
+                        "language": "Russian",
+                        "name": "Предопределение Зура",
+                        "text": "Игроки играют с открытыми руками.\nЕсли игрок берет карту, он открывает ее. Затем любой из игроков может заплатить 2 пункта жизни. Если он это делает, карта помещается на кладбище владельца. В противном случае игрок берет эту карту.",
+                        "type": "Чары"
+                    },
+                    {
+                        "language": "Chinese Simplified",
+                        "name": "祖尔的奥秘",
+                        "text": "牌手以展示手牌的方式进行游戏。\n如果任何牌手将要抓一张牌，则他改为展示该牌。 然后其它任何牌手可以支付2点生命。 若有牌手如此做，则将该牌置入其拥有者的坟墓场。 若无人支付，则该牌手抓该张牌。",
+                        "type": "结界"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "c6eaa147-3566-43a9-999a-d58b877496f5"
+                },
+                "layout": "normal",
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "legacy": "Legal",
+                    "modern": "Legal",
+                    "penny": "Legal",
+                    "premodern": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{3}{U}",
+                "manaValue": 4,
+                "name": "Zur's Weirding",
+                "printings": [
+                    "5ED",
+                    "6ED",
+                    "8ED",
+                    "9ED",
+                    "FMB1",
+                    "ICE",
+                    "PTC"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/379d35ee01ee39ea",
+                    "cardmarket": "https://mtgjson.com/links/8c1bcd169a77fd5f",
+                    "tcgplayer": "https://mtgjson.com/links/9515ce5a99458a84"
+                },
+                "rulings": [
+                    {
+                        "date": "2004-10-04",
+                        "text": "If someone pays the cost, then the card was never drawn or discarded. It just gets put into the graveyard directly from the library."
+                    },
+                    {
+                        "date": "2004-10-04",
+                        "text": "This is a continuous replacement effect that modifies a draw."
+                    },
+                    {
+                        "date": "2004-10-04",
+                        "text": "If a spell or ability causes more than one card to be drawn, draw the cards one at a time and deal with this replacement before drawing the next card."
+                    },
+                    {
+                        "date": "2006-04-01",
+                        "text": "When using Dredge with this, you have two choices. You can immediately replace the draw with Dredge, or you can apply Zur’s Weirding’s replacement. If the latter, you first resolve Zur’s Weirding’s ability, then if you’re going to draw the card, decide whether or not to replace that draw with Dredge."
+                    }
+                ],
+                "subtypes": [],
+                "supertypes": [],
+                "text": "Players play with their hands revealed.\nIf a player would draw a card, they reveal it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.",
+                "type": "Enchantment",
+                "types": [
+                    "Enchantment"
+                ]
+            }
+        ],
+        "Zur, Eternal Schemer": [
+            {
+                "colorIdentity": [
+                    "B",
+                    "U",
+                    "W"
+                ],
+                "colors": [
+                    "B",
+                    "U",
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "edhrecRank": 6642,
+                "firstPrinting": "DMU",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zur, ewiger Ränkeschmied",
+                        "text": "Fliegend\nVerzauberungskreaturen, die du kontrollierst, haben Todesberührung, Lebensverknüpfung und Fluchsicherheit.\n{1}{W}: Eine Nicht-Aura-Verzauberung deiner Wahl, die du kontrollierst, wird zusätzlich zu ihren anderen Typen zu einer Kreatur mit Basis-Stärke und -Widerstandskraft gleich ihrem Manabetrag.",
+                        "type": "Legendäre Kreatur — Mensch, Zauberer"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Zur, intrigant éternel",
+                        "text": "Vol\nLes créatures-enchantements que vous contrôlez ont le contact mortel, le lien de vie et la défense talismanique.\n{1}{W} : Un enchantement non-Aura ciblé que vous contrôlez devient une créature en plus de ses autres types et a une force et une endurance de base chacune égales à sa valeur de mana.",
+                        "type": "Créature légendaire : humain et sorcier"
+                    },
+                    {
+                        "language": "Japanese",
+                        "name": "永遠の策謀家、ズアー",
+                        "text": "飛行\nあなたがコントロールしているすべてのクリーチャー・エンチャントは接死と絆魂と呪禁を持つ。\n{1}{W}：あなたがコントロールしていてオーラでないエンチャント１つを対象とする。それは他のタイプに加えてクリーチャーになり、それの基本のパワーとタフネスはそれぞれそれのマナ総量に等しい。",
+                        "type": "伝説のクリーチャー — 人間・ウィザード"
+                    },
+                    {
+                        "language": "Chinese Simplified",
+                        "name": "永世阴谋家祖尔",
+                        "text": "飞行\n由你操控的结界生物具有死触、系命与辟邪异能。\n{1}{W}：目标由你操控的非灵气结界成为基础力量与基础防御力各等同于其法术力值的生物，且仍具有原本类别。",
+                        "type": "传奇生物 ～人类／法术师"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "cfc5dc9c-6f26-460b-a624-3681b8584eb3"
+                },
+                "keywords": [
+                    "Flying",
+                    "Lifelink"
+                ],
+                "layout": "normal",
+                "leadershipSkills": {
+                    "brawl": true,
+                    "commander": true,
+                    "oathbreaker": false
+                },
+                "legalities": {
+                    "alchemy": "Legal",
+                    "brawl": "Legal",
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "explorer": "Legal",
+                    "future": "Legal",
+                    "gladiator": "Legal",
+                    "historic": "Legal",
+                    "historicbrawl": "Legal",
+                    "legacy": "Legal",
+                    "modern": "Legal",
+                    "pioneer": "Legal",
+                    "standard": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{W}{U}{B}",
+                "manaValue": 3,
+                "name": "Zur, Eternal Schemer",
+                "power": "1",
+                "printings": [
+                    "DMU",
+                    "PDMU"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/dc3b1b3e2d82d62c",
+                    "cardKingdomFoil": "https://mtgjson.com/links/5d7596dd2abad1c2",
+                    "cardmarket": "https://mtgjson.com/links/80f379b171a09ce4",
+                    "tcgplayer": "https://mtgjson.com/links/218f889e11a9bbd1"
+                },
+                "rulings": [
+                    {
+                        "date": "2022-09-09",
+                        "text": "Zur, Eternal Schemer’s last ability does not have a duration. Once it resolves the target enchantment will be a creature until it leaves the battlefield or another effect causes it to stop being a creature."
+                    },
+                    {
+                        "date": "2022-09-09",
+                        "text": "If a permanent on the battlefield has an {X} in its mana cost, X is zero when determining its mana value."
+                    }
+                ],
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "supertypes": [
+                    "Legendary"
+                ],
+                "text": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+                "toughness": "4",
+                "type": "Legendary Creature — Human Wizard",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zuran Enchanter": [
+            {
+                "colorIdentity": [
+                    "B",
+                    "U"
+                ],
+                "colors": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "edhrecRank": 23361,
+                "firstPrinting": "ICE",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zuranischer Verzauberer",
+                        "text": "{2}{B}, {T}: Ein Spieler Deiner Wahl legt eine Karte seiner Wahl aus seiner Hand ab. Ignoriere diese Fähigkeit, wenn dieser Spieler keine Karten auf der Hand hat. Benutze diese Fähigkeit nur während Deines Zuges.",
+                        "type": "Beschwörung eines Zauberers"
+                    },
+                    {
+                        "language": "Spanish",
+                        "name": "Encantador zurano"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Enchanteur zuranien"
+                    },
+                    {
+                        "language": "Italian",
+                        "name": "Incantatore di Zur"
+                    },
+                    {
+                        "language": "Portuguese (Brazil)",
+                        "name": "Encantador Zurano"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "ee0f883f-d7c9-4acf-a78f-f733b6f268d3"
+                },
+                "layout": "normal",
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "legacy": "Legal",
+                    "pauper": "Legal",
+                    "paupercommander": "Legal",
+                    "premodern": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{1}{U}",
+                "manaValue": 2,
+                "name": "Zuran Enchanter",
+                "power": "1",
+                "printings": [
+                    "ICE"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/4f1f9a03fda163fe",
+                    "cardmarket": "https://mtgjson.com/links/f6cce709a1f7a18c",
+                    "tcgplayer": "https://mtgjson.com/links/69d14a7d0455e558"
+                },
+                "rulings": [],
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "supertypes": [],
+                "text": "{2}{B}, {T}: Target player discards a card. Activate only during your turn.",
+                "toughness": "1",
+                "type": "Creature — Human Wizard",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zuran Orb": [
+            {
+                "colorIdentity": [],
+                "colors": [],
+                "convertedManaCost": 0,
+                "edhrecRank": 1622,
+                "firstPrinting": "ICE",
+                "foreignData": [
+                    {
+                        "flavorText": "„Besessenheit ist Zurs einziger Makel als Magier. Seine totale Fixierung auf die Unsterblichkeit ist für seinen ansonsten brillanten Verstand zur Qual geworden.\"\n—Jodah, ewiger Erzmagier",
+                        "language": "German",
+                        "name": "Zurs Sphäre",
+                        "text": "Opfere ein Land: Du erhältst 2 Lebenspunkte dazu.",
+                        "type": "Artefakt"
+                    },
+                    {
+                        "flavorText": "\"El punto débil de Zur como mago es su obsesión. Su ofuscación por la inmortalidad es una desgracia para su mente brillante\".\n—Jodah, Archimago Eterno",
+                        "language": "Spanish",
+                        "name": "Orbe zurano",
+                        "text": "Sacrificar una tierra: Ganas 2 vidas.",
+                        "type": "Artefacto"
+                    },
+                    {
+                        "flavorText": "« L'obsession est le seul défaut de Zur en tant que magicien. Sa préoccupation totale avec l'immortalité est devenue maladive au point de nuire à son esprit brillant. »\n—Jodah, archimage éternel",
+                        "language": "French",
+                        "name": "Orbe zuranienne",
+                        "text": "Sacrifiez un terrain : Vous gagnez 2 points de vie.",
+                        "type": "Artefact"
+                    },
+                    {
+                        "flavorText": "\"L'ossessione è l'unico difetto di Zur come incantatore. La sua mania per l'immortalità è diventata un'afflizione per la sua mente altrimenti geniale.\"\n—Jodah, Arcimago Eterno",
+                        "language": "Italian",
+                        "name": "Globo di Zur",
+                        "text": "Sacrifica una terra: Guadagni 2 punti vita.",
+                        "type": "Artefatto"
+                    },
+                    {
+                        "flavorText": "「執着心はズアーの魔法使いとしての欠点の一つだ。不死への拘泥は、本来は才気あふれる彼の心の痛みとなった。」\n――永遠の大魔道師、ジョダー",
+                        "language": "Japanese",
+                        "name": "ズアーの宝珠",
+                        "text": "土地１つを生け贄に捧げる：あなたは２点のライフを得る。",
+                        "type": "アーティファクト"
+                    },
+                    {
+                        "flavorText": "\"마법 사용자로써 주르에게 결점이 한 가지 있다면, 그가 강박적이라는 것이다. 불멸에 대한 그의 전적인 집착은 그 일만 제외하고 보면 아주 명석한 두뇌에 대한 고통의 원인이 되었지.\"\n—영원의 대마도사, 조다",
+                        "language": "Korean",
+                        "name": "주르의 보주",
+                        "text": "대지 한 개를 희생한다: 당신은 생명 2점을 얻는다.",
+                        "type": "마법물체"
+                    },
+                    {
+                        "flavorText": "\"A obsessão é a única falha de Zur como usuário de magia. A preocupação exclusiva dele com a imortalidade se tornou uma patologia naquela mente, que caso contrário, seria brilhante.\"\n— Jodah, Arquimago Eterno",
+                        "language": "Portuguese (Brazil)",
+                        "name": "Orbe Zurana",
+                        "text": "Sacrifique um terreno: Você ganha 2 pontos de vida.",
+                        "type": "Artefato"
+                    },
+                    {
+                        "flavorText": "«Одержимость — пожалуй, единственный недостаток Зура как волшебника. Бессмертие стало навязчивой идеей для его во всем остальном блестящего ума».\n— Джодах, Вечный Архимаг",
+                        "language": "Russian",
+                        "name": "Шар Зура",
+                        "text": "Пожертвуйте землю: вы получаете 2 жизни.",
+                        "type": "Артефакт"
+                    },
+                    {
+                        "flavorText": "「祖尔作为魔法师，心有执念是他的一大缺点。他虽绝顶聪明，但却将毕生心血全部投入在追求不朽上面，令其心灵备受折磨。」\n～永世大法师裘达",
+                        "language": "Chinese Simplified",
+                        "name": "祖尔的法球",
+                        "text": "牺牲一个地：你获得2点生命。",
+                        "type": "神器"
+                    },
+                    {
+                        "flavorText": "「祖爾作為魔法師，心有執念是他的一大缺點。他雖絕頂聰明，但卻將畢生心血全部投入在追求不朽上面，令其心靈備受折磨。」\n～永世大法師裘達",
+                        "language": "Chinese Traditional",
+                        "name": "祖爾的法球",
+                        "text": "犧牲一個地：你獲得2點生命。",
+                        "type": "神器"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "08cb8a30-9cb4-4517-bee5-8848aa60d1a2"
+                },
+                "layout": "normal",
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "legacy": "Legal",
+                    "modern": "Legal",
+                    "penny": "Legal",
+                    "premodern": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{0}",
+                "manaValue": 0,
+                "name": "Zuran Orb",
+                "printings": [
+                    "ICE",
+                    "ME1",
+                    "MH2",
+                    "OLEP",
+                    "PRM",
+                    "PTC",
+                    "V10"
+                ],
+                "purchaseUrls": {},
+                "rulings": [],
+                "subtypes": [],
+                "supertypes": [],
+                "text": "Sacrifice a land: You gain 2 life.",
+                "type": "Artifact",
+                "types": [
+                    "Artifact"
+                ]
+            }
+        ],
+        "Zuran Spellcaster": [
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "colors": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "edhrecRank": 10583,
+                "firstPrinting": "ICE",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zuranischer Zaubermeister"
+                    },
+                    {
+                        "language": "Spanish",
+                        "name": "Taumaturgo zurano"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Lanceur de sort zuranien"
+                    },
+                    {
+                        "language": "Italian",
+                        "name": "Stregone di Zur"
+                    },
+                    {
+                        "language": "Japanese",
+                        "name": "ズアーの投呪士"
+                    },
+                    {
+                        "language": "Portuguese (Brazil)",
+                        "name": "Mágico Zurano"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "bc7b90b1-3517-4e5d-9bd8-68b4d8a259fd"
+                },
+                "layout": "normal",
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "legacy": "Legal",
+                    "pauper": "Legal",
+                    "paupercommander": "Legal",
+                    "penny": "Legal",
+                    "premodern": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{2}{U}",
+                "manaValue": 3,
+                "name": "Zuran Spellcaster",
+                "power": "1",
+                "printings": [
+                    "CST",
+                    "ICE",
+                    "ME2"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/59b9ff6bc900aa1a",
+                    "cardmarket": "https://mtgjson.com/links/b1f95ac998903a6f",
+                    "tcgplayer": "https://mtgjson.com/links/cc2eca2ab91c87fd"
+                },
+                "rulings": [],
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "supertypes": [],
+                "text": "{T}: Zuran Spellcaster deals 1 damage to any target.",
+                "toughness": "1",
+                "type": "Creature — Human Wizard",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zurgo Bellstriker": [
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "colors": [
+                    "R"
+                ],
+                "convertedManaCost": 1,
+                "edhrecRank": 9427,
+                "firstPrinting": "DTK",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zurgo Glockenläuter",
+                        "text": "Zurgo Glockenläuter kann Kreaturen mit Stärke 2 oder mehr nicht blocken.\nSturmangriff {1}{R} (Du kannst diesen Zauberspruch für seine Sturmangriff-Kosten wirken. Falls du dies tust, erhält die Kreatur Eile und kehrt zu Beginn des nächsten Endsegments aus dem Spiel auf die Hand ihres Besitzers zurück.)",
+                        "type": "Legendäre Kreatur — Ork, Krieger"
+                    },
+                    {
+                        "language": "Spanish",
+                        "name": "Zurgo, el campanero",
+                        "text": "Zurgo, el campanero no puede bloquear a criaturas con fuerza de 2 o más.\nRapidez {1}{R}. (Puedes lanzar este hechizo por su coste de rapidez. Si lo haces, gana la habilidad de prisa y regresa del campo de batalla a la mano de su propietario al comienzo del próximo paso final.)",
+                        "type": "Criatura legendaria — Guerrero orco"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Zurgo le Sonneur",
+                        "text": "Zurgo le Sonneur ne peut pas bloquer les créatures de force supérieure ou égale à 2.\nPrécipitation {1}{R} (Vous pouvez lancer ce sort pour son coût de précipitation. Si vous faites ainsi, il acquiert la célérité et il est renvoyé dans la main de son propriétaire depuis le champ de bataille au début de la prochaine étape de fin.)",
+                        "type": "Créature légendaire : orque et guerrier"
+                    },
+                    {
+                        "language": "Italian",
+                        "name": "Zurgo Suonacampana",
+                        "text": "Zurgo Suonacampana non può bloccare creature con forza pari o superiore a 2.\nAccelerare {1}{R} (Puoi lanciare questa magia pagando il suo costo di accelerare. Se lo fai, ha rapidità e torna in mano al suo proprietario dal campo di battaglia all'inizio della prossima sottofase finale.)",
+                        "type": "Creatura Leggendaria — Guerriero Orco"
+                    },
+                    {
+                        "language": "Japanese",
+                        "name": "鐘突きのズルゴ",
+                        "text": "鐘突きのズルゴでは、パワーが２以上のクリーチャーをブロックできない。\n疾駆{1}{R}（あなたはこの呪文を、これの疾駆コストで唱えてもよい。そうしたなら、これは速攻を得るとともに、次の終了ステップの開始時に、これを戦場からオーナーの手札に戻す。）",
+                        "type": "伝説のクリーチャー — オーク・戦士"
+                    },
+                    {
+                        "language": "Korean",
+                        "name": "타종꾼 주르고",
+                        "text": "타종꾼 주르고는 공격력이 2 이상인 생물을 방어할 수 없다.\n질주 {1}{R} (당신은 질주 비용을 지불하여 이 주문을 발동할 수 있다. 당신이 그렇게 한다면, 이 지속물은 신속을 얻고 다음 종료단 시작에 전장에서 소유자의 손으로 돌아간다.)",
+                        "type": "전설적 생물 — 오크 전사"
+                    },
+                    {
+                        "language": "Portuguese (Brazil)",
+                        "name": "Zurgo Sineiro",
+                        "text": "Zurgo Sineiro não pode bloquear criaturas com poder igual ou superior a 2.\nInvestida {1}{R} (Você pode conjurar esta mágica pagando seu custo de investida. Se fizer isso, ela ganha ímpeto e é devolvida do campo de batalha para a mão de seu dono no início da próxima etapa final.)",
+                        "type": "Criatura Lendária — Orc Guerreiro"
+                    },
+                    {
+                        "language": "Russian",
+                        "name": "Зурго Звонарь",
+                        "text": "Зурго Звонарь не может блокировать существа с силой 2 или больше.\nРывок {1}{R} (Вы можете разыграть это заклинание за его стоимость Рывка. Если вы это делаете, оно получает Ускорение и возвращается с поля битвы в руку владельца в начале следующего заключительного шага.)",
+                        "type": "Легендарное Существо — Орк Воин"
+                    },
+                    {
+                        "language": "Chinese Simplified",
+                        "name": "司钟珠高",
+                        "text": "司钟珠高不能阻挡力量等于或大于2的生物。\n掩袭{1}{R}（你可以支付此咒语的掩袭费用来施放它。如果你如此作，则它获得敏捷异能，且在下个结束步骤开始时便需从战场移回其拥有者手上。）",
+                        "type": "传奇生物～半兽人／战士"
+                    },
+                    {
+                        "language": "Chinese Traditional",
+                        "name": "司鐘珠高",
+                        "text": "司鐘珠高不能阻擋力量等於或大於2的生物。\n掩襲{1}{R}（你可以支付此咒語的掩襲費用來施放它。如果你如此作，則它獲得敏捷異能，且在下個結束步驟開始時便需從戰場移回其擁有者手上。）",
+                        "type": "傳奇生物～半獸人／戰士"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "46808926-d95b-4313-89d1-6bdfe13fcb77"
+                },
+                "keywords": [
+                    "Dash"
+                ],
+                "layout": "normal",
+                "leadershipSkills": {
+                    "brawl": false,
+                    "commander": true,
+                    "oathbreaker": false
+                },
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Restricted",
+                    "legacy": "Legal",
+                    "modern": "Legal",
+                    "penny": "Legal",
+                    "pioneer": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{R}",
+                "manaValue": 1,
+                "name": "Zurgo Bellstriker",
+                "power": "2",
+                "printings": [
+                    "DTK",
+                    "PDTK"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/bb8df1d73ee775fb",
+                    "cardKingdomFoil": "https://mtgjson.com/links/1163912a2cc17a2f",
+                    "cardmarket": "https://mtgjson.com/links/762423009080415a",
+                    "tcgplayer": "https://mtgjson.com/links/bf10bb98d347ce3a"
+                },
+                "rulings": [
+                    {
+                        "date": "2015-02-25",
+                        "text": "Once Zurgo Bellstriker has legally blocked a creature, raising that creature’s power to 2 or greater won’t undo the block."
+                    },
+                    {
+                        "date": "2015-02-25",
+                        "text": "Even though both cards portray the same character, Zurgo Bellstriker and Zurgo Helmsmasher have different names. Controlling both of them won’t invoke the “legend rule.”"
+                    },
+                    {
+                        "date": "2015-02-25",
+                        "text": "If you choose to pay the dash cost rather than the mana cost, you’re still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty."
+                    },
+                    {
+                        "date": "2015-02-25",
+                        "text": "If you pay the dash cost to cast a creature spell, that card will be returned to its owner’s hand only if it’s still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is."
+                    },
+                    {
+                        "date": "2015-02-25",
+                        "text": "You don’t have to attack with the creature with dash unless another ability says you do."
+                    },
+                    {
+                        "date": "2015-02-25",
+                        "text": "If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won’t have haste and won’t be returned to its owner’s hand."
+                    }
+                ],
+                "subtypes": [
+                    "Orc",
+                    "Warrior"
+                ],
+                "supertypes": [
+                    "Legendary"
+                ],
+                "text": "Zurgo Bellstriker can't block creatures with power 2 or greater.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+                "toughness": "2",
+                "type": "Legendary Creature — Orc Warrior",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zurgo Helmsmasher": [
+            {
+                "colorIdentity": [
+                    "B",
+                    "R",
+                    "W"
+                ],
+                "colors": [
+                    "B",
+                    "R",
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "edhrecRank": 6373,
+                "firstPrinting": "KTK",
+                "foreignData": [
+                    {
+                        "language": "Japanese",
+                        "name": "兜砕きのズルゴ",
+                        "text": "速攻\n兜砕きのズルゴは可能なら各戦闘で攻撃する。\nあなたのターンであるかぎり、兜砕きのズルゴは破壊不能を持つ。\nこのターンに兜砕きのズルゴによってダメージを与えられたクリーチャーが１体死亡するたび、兜砕きのズルゴの上に＋１/＋１カウンターを１個置く。",
+                        "type": "伝説のクリーチャー — オーク・戦士"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "6c48d888-9f5d-43f4-adbd-61dbdba09260"
+                },
+                "keywords": [
+                    "Haste"
+                ],
+                "layout": "normal",
+                "leadershipSkills": {
+                    "brawl": false,
+                    "commander": true,
+                    "oathbreaker": false
+                },
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "legacy": "Legal",
+                    "modern": "Legal",
+                    "penny": "Legal",
+                    "pioneer": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{2}{R}{W}{B}",
+                "manaValue": 5,
+                "name": "Zurgo Helmsmasher",
+                "power": "7",
+                "printings": [
+                    "DDN",
+                    "KTK",
+                    "PKTK",
+                    "PRM",
+                    "SLD"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/0c633b4f65297526",
+                    "cardKingdomFoil": "https://mtgjson.com/links/d69b533c09c80684",
+                    "tcgplayer": "https://mtgjson.com/links/5dea34bb9b4b718f"
+                },
+                "rulings": [
+                    {
+                        "date": "2014-09-20",
+                        "text": "You still choose which player or planeswalker Zurgo Helmsmasher attacks."
+                    },
+                    {
+                        "date": "2014-09-20",
+                        "text": "If, during your declare attackers step, Zurgo is tapped or is affected by a spell or ability that says it can’t attack, then it doesn’t attack. If there’s a cost associated with having Zurgo attack, you aren’t forced to pay that cost, so it doesn’t have to attack in that case either."
+                    },
+                    {
+                        "date": "2014-09-20",
+                        "text": "If Zurgo enters the battlefield before the combat phase, it will attack that turn if able. If it enters the battlefield after combat, it won’t attack that turn and will usually be available to block on the following turn."
+                    },
+                    {
+                        "date": "2014-09-20",
+                        "text": "Each time a creature dies, check whether Zurgo had dealt any damage to it at any time during that turn. If so, Zurgo’s ability will trigger. It doesn’t matter who controlled the creature or whose graveyard it went to."
+                    }
+                ],
+                "subtypes": [
+                    "Orc",
+                    "Warrior"
+                ],
+                "supertypes": [
+                    "Legendary"
+                ],
+                "text": "Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.",
+                "toughness": "2",
+                "type": "Legendary Creature — Orc Warrior",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zurzoth, Chaos Rider": [
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "colors": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "edhrecRank": 4079,
+                "firstPrinting": "JMP",
+                "foreignData": [
+                    {
+                        "language": "German",
+                        "name": "Zurzoth der Chaos-Reiter",
+                        "text": "Immer wenn ein Gegner seine erste Karte in einem Zug zieht und falls es nicht sein Zug ist, erzeugst du einen 1/1 roten Teufel-Kreaturenspielstein mit „Wenn diese Kreatur stirbt, fügt sie einem Ziel deiner Wahl 1 Schadenspunkt zu\".\nImmer wenn ein oder mehrere Teufel, die du kontrollierst, einen oder mehrere Spieler angreifen, zieht du und jene Spieler jeweils eine Karte und werft dann eine per Zufall bestimmte Karte ab.",
+                        "type": "Legendäre Kreatur — Teufel"
+                    },
+                    {
+                        "language": "Spanish",
+                        "name": "Zurzoth, jinete del caos",
+                        "text": "Siempre que un oponente robe su primera carta cada turno, si no es su turno, creas una ficha de criatura Diablo roja 1/1 con \"Cuando esta criatura muera, hace 1 punto de daño a cualquier objetivo\".\nSiempre que uno o más Diablos que controlas ataquen a uno o más jugadores, tú y esos jugadores roban una carta cada uno, luego descartan una carta al azar.",
+                        "type": "Criatura legendaria — Diablo"
+                    },
+                    {
+                        "language": "French",
+                        "name": "Zurzoth, cavalier du chaos",
+                        "text": "À chaque fois qu'un adversaire pioche sa première carte à chaque tour, si ce n'est pas son tour, vous créez un jeton de créature 1/1 rouge Diable avec « Quand cette créature meurt, elle inflige 1 blessure à n'importe quelle cible. »\nÀ chaque fois qu'au moins un diable que vous contrôlez attaque au moins un joueur, ces joueurs et vous piochez chacun une carte, puis vous défaussez d'une carte au hasard.",
+                        "type": "Créature légendaire : diable"
+                    },
+                    {
+                        "language": "Italian",
+                        "name": "Zurzoth, Cavalcante del Caos",
+                        "text": "Ogniqualvolta un avversario pesca la sua prima carta in ogni turno, se non è il suo turno, crei una pedina creatura Diavolo 1/1 rossa con \"Quando questa creatura muore, infligge 1 danno a un qualsiasi bersaglio\".\nOgniqualvolta uno o più Diavoli che controlli attaccano uno o più giocatori, tu e quei giocatori pescate una carta, poi scartate una carta a caso.",
+                        "type": "Creatura Leggendaria — Diavolo"
+                    },
+                    {
+                        "language": "Japanese",
+                        "name": "混沌の乗り手、ザルゾス",
+                        "text": "対戦相手１人が各ターンで初めて自分のカードを引くたび、そのプレイヤーのターンでない場合、あなたは「このクリーチャーが死亡したとき、クリーチャーやプレインズウォーカーやプレイヤーのうち１つを対象とする。これはそれに１点のダメージを与える。」を持つ赤の１/１のデビル・クリーチャー・トークン１体を生成する。\nあなたがコントロールしている１体以上のデビルが１人以上のプレイヤーを攻撃するたび、あなたとそれらのプレイヤーはそれぞれ、カード１枚を引き、その後カード１枚を無作為に選んで捨てる。",
+                        "type": "伝説のクリーチャー — デビル"
+                    },
+                    {
+                        "language": "Portuguese (Brazil)",
+                        "name": "Zurzoth, Ginete do Caos",
+                        "text": "Toda vez que um oponente comprar seu primeiro card a cada turno, se não for o turno dele, crie uma ficha de criatura Diabo vermelha 1/1 com \"Quando esta criatura morre, ela causa 1 ponto de dano a qualquer alvo\".\nToda vez que um ou mais Diabos que você controla atacam um ou mais jogadores, você e aqueles jogadores compram um card cada um e depois descartam um card aleatoriamente.",
+                        "type": "Criatura Lendária — Diabo"
+                    },
+                    {
+                        "language": "Russian",
+                        "name": "Зурзот, Всадник Хаоса",
+                        "text": "Каждый раз, когда оппонент берет свою первую карту в каждом ходу, если это не его ход, вы создаете одну фишку существа 1/1 красный Дьявол со способностью «Когда это существо умирает, оно наносит 1 повреждение любой цели».\nКаждый раз, когда один или более Дьяволов под вашим контролем атакуют одного или нескольких игроков, вы и те игроки берете по карте, затем сбрасываете по одной случайно выбранной карте.",
+                        "type": "Легендарное Существо — Дьявол"
+                    },
+                    {
+                        "language": "Chinese Simplified",
+                        "name": "混沌骑兵祖佐斯",
+                        "text": "每当任一对手抓每回合中他的第一张牌时，若当前不是他的回合，则你派出一个1/1红色魔鬼衍生生物，且具有「当此生物死去时，它对任意一个目标造成1点伤害。」\n每当由你操控的一个或数个魔鬼攻击一位或更多牌手时，你和这些牌手各抓一张牌，然后各随机弃一张牌。",
+                        "type": "传奇生物 ～魔鬼"
+                    },
+                    {
+                        "language": "Chinese Traditional",
+                        "name": "混沌騎兵祖佐斯",
+                        "text": "每當任一對手抽每回合中他的第一張牌時，若當前不是他的回合，則你派出一個1/1紅色魔鬼衍生生物，且具有「當此生物死去時，它對任意一個目標造成1點傷害。」\n每當由你操控的一個或數個魔鬼攻擊一位或更多玩家時，你和這些玩家各抽一張牌，然後各隨機棄一張牌。",
+                        "type": "傳奇生物 ～魔鬼"
+                    }
+                ],
+                "identifiers": {
+                    "scryfallOracleId": "a7da9ec5-f82f-4a6d-9737-06a1556e2dd6"
+                },
+                "layout": "normal",
+                "leadershipSkills": {
+                    "brawl": false,
+                    "commander": true,
+                    "oathbreaker": false
+                },
+                "legalities": {
+                    "commander": "Legal",
+                    "duel": "Legal",
+                    "gladiator": "Legal",
+                    "historic": "Legal",
+                    "historicbrawl": "Legal",
+                    "legacy": "Legal",
+                    "vintage": "Legal"
+                },
+                "manaCost": "{2}{R}",
+                "manaValue": 3,
+                "name": "Zurzoth, Chaos Rider",
+                "power": "2",
+                "printings": [
+                    "JMP",
+                    "NCC"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/daac9d8f546a379c",
+                    "tcgplayer": "https://mtgjson.com/links/8d48a55a73eecade"
+                },
+                "rulings": [
+                    {
+                        "date": "2020-06-23",
+                        "text": "If a spell or ability causes a player to put a card into their hand without specifically using the word “draw,” it's not a card drawn."
+                    },
+                    {
+                        "date": "2020-06-23",
+                        "text": "If your life total is brought to 0 or less at the same time that a Devil token is dealt lethal damage, you lose the game before its ability goes on the stack."
+                    },
+                    {
+                        "date": "2020-06-23",
+                        "text": "Devils you control that attack a planeswalker won't cause any player to draw or discard a card."
+                    }
+                ],
+                "subtypes": [
+                    "Devil"
+                ],
+                "supertypes": [
+                    "Legendary"
+                ],
+                "text": "Whenever an opponent draws their first card each turn, if it's not their turn, you create a 1/1 red Devil creature token with \"When this creature dies, it deals 1 damage to any target.\"\nWhenever one or more Devils you control attack one or more players, you and those players each draw a card, then discard a card at random.",
+                "toughness": "3",
+                "type": "Legendary Creature — Devil",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zyym, Mesmeric Lord": [
+            {
+                "colorIdentity": [
+                    "B",
+                    "U"
+                ],
+                "colors": [
+                    "B",
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "firstPrinting": "CMB1",
+                "foreignData": [],
+                "identifiers": {
+                    "scryfallOracleId": "fbd4ffd6-1ffb-4822-9ee8-ee2133e03b4b"
+                },
+                "isFunny": true,
+                "keywords": [
+                    "Deathtouch",
+                    "Flying"
+                ],
+                "layout": "normal",
+                "leadershipSkills": {
+                    "brawl": false,
+                    "commander": true,
+                    "oathbreaker": false
+                },
+                "legalities": {},
+                "manaCost": "{1}{U}{B}{B}",
+                "manaValue": 4,
+                "name": "Zyym, Mesmeric Lord",
+                "power": "3",
+                "printings": [
+                    "CMB1",
+                    "CMB2"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/8d1cf80fbffa49b1",
+                    "tcgplayer": "https://mtgjson.com/links/a910eb709628a69b"
+                },
+                "rulings": [
+                    {
+                        "date": "2019-11-12",
+                        "text": "While resolving Zyym’s triggered ability, the target opponent can’t rush through revealing their cards. After each is revealed, they must wait for you to choose to continue or stop."
+                    }
+                ],
+                "subtypes": [
+                    "Vampire",
+                    "Wizard"
+                ],
+                "supertypes": [
+                    "Legendary"
+                ],
+                "text": "Flying, deathtouch\nWhen Zyym, Mesmeric Lord enters the battlefield, target opponent chooses an order for the cards in their hand, then reveals them one by one until you say stop. That player then discards the most recently revealed card.",
+                "toughness": "4",
+                "type": "Legendary Creature — Vampire Wizard",
+                "types": [
+                    "Creature"
+                ]
+            }
+        ],
+        "Zzzyxas's Abyss": [
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "colors": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "firstPrinting": "UNH",
+                "foreignData": [],
+                "identifiers": {
+                    "scryfallOracleId": "0f863bb9-d73a-485b-b620-fb23510ff6d1"
+                },
+                "isFunny": true,
+                "layout": "normal",
+                "legalities": {},
+                "manaCost": "{1}{B}{B}",
+                "manaValue": 3,
+                "name": "Zzzyxas's Abyss",
+                "printings": [
+                    "UNH"
+                ],
+                "purchaseUrls": {
+                    "cardKingdom": "https://mtgjson.com/links/d30a8deb202a139d",
+                    "cardKingdomFoil": "https://mtgjson.com/links/7303dbeb48a561f0",
+                    "cardmarket": "https://mtgjson.com/links/35659c0f945cb22b",
+                    "tcgplayer": "https://mtgjson.com/links/6b1dd4e29dd3c39c"
+                },
+                "rulings": [],
+                "subtypes": [],
+                "supertypes": [],
+                "text": "At the beginning of your upkeep, destroy all nonland permanents with the first name alphabetically among nonland permanents.",
+                "type": "Enchantment",
+                "types": [
+                    "Enchantment"
+                ]
+            }
+        ]
+    }
+}
